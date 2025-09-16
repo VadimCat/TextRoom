@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d68b5ad64d4d47ff8732d2ff3ced55d6, type: 3}
+  m_Name: PotionRecipeConfig
+  m_EditorClassIdentifier: 
+  <Ingredients>k__BackingField:
+  - {fileID: 11400000, guid: a07271e46bcab4747a26e5f869f35dfb, type: 2}
+  - {fileID: 11400000, guid: 80a4efab1d652b6478b2de9cbfbecc1d, type: 2}
+  - {fileID: 11400000, guid: 2af8be31e03347243aa58e0466c72caf, type: 2}
+  <Result>k__BackingField: {fileID: 11400000, guid: 1a6161ede2a47a145ada5dd7573eb1a7, type: 2}

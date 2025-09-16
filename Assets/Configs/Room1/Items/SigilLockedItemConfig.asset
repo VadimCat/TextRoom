@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 965eea9955cd4624aa6d0b90644c5537, type: 3}
+  m_Name: SigilLockedItemConfig
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: sigil
+  <Description>k__BackingField: The vessel erupts in a burst of light and sound.
+    The arcane sigil shatters, and the lock crumbles into dust.
+  <IsFinal>k__BackingField: 1
+  <Keys>k__BackingField:
+  - {fileID: 11400000, guid: 1a6161ede2a47a145ada5dd7573eb1a7, type: 2}
