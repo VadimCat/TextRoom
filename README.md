@@ -47,7 +47,4 @@ Commands are case-insensitive but require the exact item names.
 ## Development Tips
 - Add new rooms by duplicating an existing `RoomConfig` asset and linking it to a new scene.
 - To expand puzzles, create additional `RecipeConfig` assets and `LockedItemConfig` assets that list the required keys.
-- For localisation, move strings to dedicated configuration assets or a localisation table.
 
-## Licence
-The project is provided for educational purposes without an explicit licence. Please contact the assignment author to clarify usage terms.
