@@ -5,7 +5,7 @@ TextRoom is a small instructional text adventure in which the player must escape
 
 ## Environment Requirements
 - **Unity**: editor version 6000.0.57f1 (see `ProjectSettings/ProjectVersion.txt`).
-- **Platforms**: designed to run in the editor or as a build for standard desktop targets.
+- **Platforms**: designed to run in the editor or any vertical 9:16 resolution.
 
 ## Quick Start
 1. Open the project in the required Unity version.
